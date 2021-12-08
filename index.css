@@ -1,0 +1,26 @@
+#quotebox{
+    border:solid transparent;
+    border-radius:5%;
+    height:350px;
+    width:600px;
+    
+   position:relative;
+   top:100px;	
+        background-color:white;	 
+    
+    font-size:30px;
+
+}
+
+#btnsection{   border:solid red transparent;
+position:relative;
+top:45%;					}
+
+
+
+#author{font-size:16px; text-align:right;}
+#btn3{margin-left:50%;}
+.quote{border:solid white;height:300px;}
+#quote{margin-top:5%}
+body{background-color:red;}
+#internal{margin-top:5%;}
